@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola soy Daniela Martinez 👩‍💻
+
+ Apasionada por la programación, el aprendizaje constante y los michis 
 
 <!--
 **daNielaMartinezG/daNielaMartinezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
